@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_F-G_HardikParmar/static/css/main.fc2fc01b.css",
+    "main.js": "/React_F-G_HardikParmar/static/js/main.551ff074.js",
+    "static/js/787.0c3f432a.chunk.js": "/React_F-G_HardikParmar/static/js/787.0c3f432a.chunk.js",
+    "static/media/flag.svg": "/React_F-G_HardikParmar/static/media/flag.1e883071143413ca2167a5c4ddf973b7.svg",
+    "index.html": "/React_F-G_HardikParmar/index.html",
+    "main.fc2fc01b.css.map": "/React_F-G_HardikParmar/static/css/main.fc2fc01b.css.map",
+    "main.551ff074.js.map": "/React_F-G_HardikParmar/static/js/main.551ff074.js.map",
+    "787.0c3f432a.chunk.js.map": "/React_F-G_HardikParmar/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc2fc01b.css",
+    "static/js/main.551ff074.js"
+  ]
+}
